@@ -1,0 +1,7 @@
+Reflection
+
+One decision I made was to split the header and footer into their own components instead of keeping everything inside the layout file. I thought about just leaving them in the layout, but I chose to separate them because it makes the code easier to manage and update later.
+
+A challenge I faced was trying to set up the dark mode toggle. I spent a lot of time on it and it didn’t work the way I wanted, so I decided to move on and focus on finishing the deployment instead. Another challenge was connecting Vercel after I had already pushed my branch, but I figured it out and got the preview link working.
+
+I used AI during development to ask questions about Tailwind dark mode, how to structure components, and how to deploy with Vercel. I also asked about GitHub Pull Requests and how to trigger redeploys from VS Code. The AI helped me understand the steps and gave me examples I could follow, even though I still had to try things myself and make decisions.
